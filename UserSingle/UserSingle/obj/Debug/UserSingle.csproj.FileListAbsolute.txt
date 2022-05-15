@@ -1,0 +1,8 @@
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserSingle\UserSingle\bin\Debug\UserSingle.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserSingle\UserSingle\bin\Debug\UserSingle.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserSingle\UserSingle\bin\Debug\UserSingle.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserSingle\UserSingle\obj\Debug\UserSingle.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserSingle\UserSingle\obj\Debug\UserSingle.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserSingle\UserSingle\obj\Debug\UserSingle.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserSingle\UserSingle\obj\Debug\UserSingle.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserSingle\UserSingle\obj\Debug\UserSingle.pdb

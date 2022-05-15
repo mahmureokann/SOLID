@@ -1,0 +1,8 @@
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\VisualStudi\RestaurantDIP\RestaurantDIP\bin\Debug\RestaurantDIP.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\VisualStudi\RestaurantDIP\RestaurantDIP\bin\Debug\RestaurantDIP.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\VisualStudi\RestaurantDIP\RestaurantDIP\bin\Debug\RestaurantDIP.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\VisualStudi\RestaurantDIP\RestaurantDIP\obj\Debug\RestaurantDIP.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\VisualStudi\RestaurantDIP\RestaurantDIP\obj\Debug\RestaurantDIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\VisualStudi\RestaurantDIP\RestaurantDIP\obj\Debug\RestaurantDIP.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\VisualStudi\RestaurantDIP\RestaurantDIP\obj\Debug\RestaurantDIP.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\VisualStudi\RestaurantDIP\RestaurantDIP\obj\Debug\RestaurantDIP.pdb

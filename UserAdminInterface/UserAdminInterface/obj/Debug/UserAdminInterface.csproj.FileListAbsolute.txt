@@ -1,0 +1,16 @@
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserAdminInterface\UserAdminInterface\bin\Debug\UserAdminInterface.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserAdminInterface\UserAdminInterface\bin\Debug\UserAdminInterface.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserAdminInterface\UserAdminInterface\bin\Debug\UserAdminInterface.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserAdminInterface\UserAdminInterface\obj\Debug\UserAdminInterface.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserAdminInterface\UserAdminInterface\obj\Debug\UserAdminInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserAdminInterface\UserAdminInterface\obj\Debug\UserAdminInterface.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserAdminInterface\UserAdminInterface\obj\Debug\UserAdminInterface.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SOLID\UserAdminInterface\UserAdminInterface\obj\Debug\UserAdminInterface.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\Github Ödevler\UserAdminInterface\UserAdminInterface\bin\Debug\UserAdminInterface.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\Github Ödevler\UserAdminInterface\UserAdminInterface\bin\Debug\UserAdminInterface.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\Github Ödevler\UserAdminInterface\UserAdminInterface\bin\Debug\UserAdminInterface.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\Github Ödevler\UserAdminInterface\UserAdminInterface\obj\Debug\UserAdminInterface.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\Github Ödevler\UserAdminInterface\UserAdminInterface\obj\Debug\UserAdminInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\Github Ödevler\UserAdminInterface\UserAdminInterface\obj\Debug\UserAdminInterface.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\Github Ödevler\UserAdminInterface\UserAdminInterface\obj\Debug\UserAdminInterface.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\Github Ödevler\UserAdminInterface\UserAdminInterface\obj\Debug\UserAdminInterface.pdb
